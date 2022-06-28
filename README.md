@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arief Raja
-- 👀 I’m interested in Enbedded Coding and Hardware debugging 
+- 👀 I’m interested in Embedded Coding and Hardware debugging 
 - 🌱 I’m currently learning computer vision 
 - 📫 You can reach me at r.arifraja@gmail.com
 
